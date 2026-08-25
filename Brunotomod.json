@@ -1,0 +1,19 @@
+{
+	"id": "Brunotomod",
+	"name": "Brunotomod",
+	"display_name": "Brunotomod",
+	"author": [
+		"Brunoto"
+	],
+	"description": "This is a stupid mod so i guess enjoy it.",
+	"prefix": "brunotomod",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "00FF00",
+	"badge_text_colour": "FFFFFF",
+	"version": "4.0",
+	"dependencies": [
+	],
+	"conflicts": [
+	]
+}
